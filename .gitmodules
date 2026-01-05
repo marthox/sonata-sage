@@ -1,9 +1,12 @@
 [submodule "Sonata-Sage-Client"]
 	path = Sonata-Sage-Client
 	url = git@github.com:MarthoxGJ/Sonata-Sage-Client.git
+	branch = main
 [submodule "Sonata-Sage-Server"]
 	path = Sonata-Sage-Server
 	url = git@github.com:MarthoxGJ/Sonata-Sage-Server.git
+	branch = main
 [submodule "Sonata-Sage-Database"]
 	path = Sonata-Sage-Database
 	url = git@github.com:Marthox/Sonata-Sage-Database.git
+	branch = main
